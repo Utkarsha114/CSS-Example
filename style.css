@@ -1,0 +1,14 @@
+h1{
+    border-bottom: 2px solid green;
+    padding-bottom: 20px;
+}
+.first{
+    margin-right: 10%;
+    width: 60%;
+    /* border: 2px dashed blueviolet; */
+}
+.second{
+    margin-left: 50%;
+    width: 50%;
+    /* border: 2px dotted goldenrod; */
+}
